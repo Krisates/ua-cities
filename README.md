@@ -1,9 +1,8 @@
-# Список украинских городов
+# Список украинских городов от Леонида Шевцова
 
-Подробнее [на моем блоге](http://leonid.shevtsov.me/ru/spisok-ukrainskix-gorodov-dlya-sajta).
+Подробнее [на его блоге](http://leonid.shevtsov.me/ru/spisok-ukrainskix-gorodov-dlya-sajta).
 
 ## Использование
 
 * * *
 
-Леонид Шевцов
